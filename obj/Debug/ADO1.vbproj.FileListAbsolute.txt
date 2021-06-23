@@ -1,0 +1,12 @@
+C:\Users\richa\Downloads\ADO1\bin\Debug\ADO1.exe.config
+C:\Users\richa\Downloads\ADO1\bin\Debug\ADO1.exe
+C:\Users\richa\Downloads\ADO1\bin\Debug\ADO1.pdb
+C:\Users\richa\Downloads\ADO1\bin\Debug\ADO1.xml
+C:\Users\richa\Downloads\ADO1\obj\Debug\ADO1.vbproj.AssemblyReference.cache
+C:\Users\richa\Downloads\ADO1\obj\Debug\ADO1.Form1.resources
+C:\Users\richa\Downloads\ADO1\obj\Debug\ADO1.Resources.resources
+C:\Users\richa\Downloads\ADO1\obj\Debug\ADO1.vbproj.GenerateResource.cache
+C:\Users\richa\Downloads\ADO1\obj\Debug\ADO1.vbproj.CoreCompileInputs.cache
+C:\Users\richa\Downloads\ADO1\obj\Debug\ADO1.exe
+C:\Users\richa\Downloads\ADO1\obj\Debug\ADO1.xml
+C:\Users\richa\Downloads\ADO1\obj\Debug\ADO1.pdb
